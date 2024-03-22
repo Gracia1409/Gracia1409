@@ -48,11 +48,9 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gracia1409&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=gracia1409&show_icons=true&locale=en" alt="gracia1409" /> </p>
 
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gracia1409&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gracia1409&show_icons=true&locale=en&layout=compact" alt="gracia1409" /> </p>
 
 </td></tr></table>  
 
