@@ -1,6 +1,22 @@
 ## Hey 👋, I'm Gracia Julienne !
+
+
+
+
+### ME✨  
+- 🌱 I’m currently learning Python/Java/JS/Html & CSS et autres.....  
   
+
+- ❓ Ask me about anything related  technologies  
   
+
+- 🌼My name is @Fleur_accacia and I'm interested in coding  
+  
+
+- ⚡ Fun fact: follow me and you discover  
+  
+## Connect with me
+<br/>  
 
 <a href="https://twitter.com/GraciaJulienne?t=qL-aHsl85r0brHBimpeQ9A&s=09" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -17,23 +33,6 @@
 <a href="https://linkedin.com/in/gracia-gokar-5b42982a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
-
-<br/>  
-
-
-
-### ME✨  
-- 🌱 I’m currently learning Python/Java/JS/Html & CSS et autres.....  
-  
-
-- ❓ Ask me about anything related  technologies  
-  
-
-- 🌼My name is @Fleur_accacia and I'm interested in coding  
-  
-
-- ⚡ Fun fact: follow me and you discover  
   
 
 <br/>  
@@ -85,5 +84,3 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
